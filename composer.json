@@ -1,0 +1,34 @@
+{
+    "name": "ducmanhtt5/mypackage",
+    "description": "mypackage",
+    "keywords": [
+        "mypackage"
+    ],
+    "authors": [
+        {
+            "name": "ducmanhtt5",
+            "email": "c9hai120@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ducmanhtt5\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
