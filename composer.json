@@ -12,7 +12,7 @@
     ],
     "license": "MIT",
     "require": {
-        "ducmanhtt5/mypackage": "dev-main"
+        "tailieuweb/mypackage": "dev-main"
     },
     "autoload": {
         "psr-4": {

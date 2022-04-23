@@ -11,12 +11,20 @@ class ComposerStaticInit4ed8961f62555c17a67f5575908db415
         array (
             'ducmanhtt5\\Mypackage\\' => 21,
         ),
+        'T' => 
+        array (
+            'Tailieuweb\\Mypackage\\' => 21,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'ducmanhtt5\\Mypackage\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Tailieuweb\\Mypackage\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/tailieuweb/mypackage/src',
         ),
     );
 

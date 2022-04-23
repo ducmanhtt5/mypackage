@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'e52cfd7f0761e33046113597fcced1838fa6ca60',
+        'reference' => 'f04044d2b510533b28b07b1a07d9c92c7b6a24b9',
         'name' => 'ducmanhtt5/mypackage',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'e52cfd7f0761e33046113597fcced1838fa6ca60',
+            'reference' => 'f04044d2b510533b28b07b1a07d9c92c7b6a24b9',
             'dev_requirement' => false,
         ),
         'tailieuweb/mypackage' => array(
