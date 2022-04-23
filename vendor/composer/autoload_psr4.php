@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'ducmanhtt5\\Mypackage\\' => array($baseDir . '/src'),
+    'Tailieuweb\\Mypackage\\' => array($vendorDir . '/tailieuweb/mypackage/src'),
 );

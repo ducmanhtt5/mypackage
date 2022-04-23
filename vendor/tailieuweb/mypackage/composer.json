@@ -1,22 +1,23 @@
 {
-    "name": "ducmanhtt5/mypackage",
+    "name": "tailieuweb/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
     ],
     "authors": [
         {
-            "name": "ducmanhtt5",
-            "email": "c9hai120@gmail.com"
+            "name": "foostart",
+            "email": "foostart.com@gmail.com"
         }
     ],
     "license": "MIT",
     "require": {
-        "ducmanhtt5/mypackage": "dev-main"
+    },
+    "require-dev": {
     },
     "autoload": {
         "psr-4": {
-            "ducmanhtt5\\Mypackage\\": "src/"
+            "Tailieuweb\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
